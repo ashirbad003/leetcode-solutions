@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=F79F1F&center=true&vCenter=true&width=800&lines=Welcome+to+my+LeetCode+Journey!;Building+Consistency+Through+Code.;One+Problem+at+a+Time.;Code.+Learn.+Repeat.+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F79F1F&center=true&vCenter=true&width=700&lines=🚀+LeetCode+Solutions;Building+Consistency.;One+Problem+at+a+Time."/>
 </p>
 
 <p align="center">
