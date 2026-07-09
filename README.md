@@ -47,13 +47,6 @@ leetcode-solutions/
 │   ├── README.md
 │   └── solution.py
 │
-├── 0020-valid-parentheses/
-│   ├── README.md
-│   └── solution.py
-│
-├── 0121-best-time-to-buy-and-sell-stock/
-│   ├── README.md
-│   └── solution.py
 │
 └── ...
 ```
