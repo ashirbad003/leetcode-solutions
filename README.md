@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F79F1F&center=true&vCenter=true&width=700&lines=🚀+LeetCode+Solutions;Building+Consistency.;One+Problem+at+a+Time."/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=240&section=header&text=LeetCode%20Solutions&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
