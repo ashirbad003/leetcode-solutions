@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=240&section=header&text=LeetCode%20Solutions&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=240&section=header&text=LeetCode%20Solutions&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
