@@ -122,6 +122,7 @@ Solve Problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
