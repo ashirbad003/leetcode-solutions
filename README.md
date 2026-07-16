@@ -125,6 +125,7 @@ Solve Problem
 | [0009-palindrome-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Solve Problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -207,4 +209,8 @@ Solve Problem
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
