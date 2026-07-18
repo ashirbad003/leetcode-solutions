@@ -140,6 +140,7 @@ Solve Problem
 | [0062-unique-paths](https://github.com/ashirbad003/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ashirbad003/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashirbad003/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ashirbad003/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -260,6 +261,7 @@ Solve Problem
 | [0033-search-in-rotated-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashirbad003/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ashirbad003/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
