@@ -212,6 +212,7 @@ Solve Problem
 | [0042-trapping-rain-water](https://github.com/ashirbad003/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ashirbad003/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -308,6 +309,7 @@ Solve Problem
 | [0015-3sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashirbad003/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -388,6 +390,7 @@ Solve Problem
 | [0039-combination-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashirbad003/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
