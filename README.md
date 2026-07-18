@@ -221,6 +221,7 @@ Solve Problem
 | [0048-rotate-image](https://github.com/ashirbad003/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashirbad003/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ashirbad003/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -299,6 +300,7 @@ Solve Problem
 | [0042-trapping-rain-water](https://github.com/ashirbad003/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -387,6 +389,7 @@ Solve Problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashirbad003/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
