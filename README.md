@@ -135,6 +135,7 @@ Solve Problem
 | [0043-multiply-strings](https://github.com/ashirbad003/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ashirbad003/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashirbad003/leetcode-solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ashirbad003/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -152,6 +153,7 @@ Solve Problem
 | [0025-reverse-nodes-in-k-group](https://github.com/ashirbad003/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ashirbad003/leetcode-solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ashirbad003/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
