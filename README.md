@@ -202,6 +202,7 @@ Solve Problem
 | [0036-valid-sudoku](https://github.com/ashirbad003/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ashirbad003/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -369,6 +370,7 @@ Solve Problem
 | [0022-generate-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ashirbad003/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
