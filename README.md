@@ -380,6 +380,7 @@ Solve Problem
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
@@ -508,6 +509,7 @@ Solve Problem
 | [0071-simplify-path](https://github.com/ashirbad003/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashirbad003/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -526,4 +528,12 @@ Solve Problem
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
