@@ -120,6 +120,7 @@ Solve Problem
 | [0002-add-two-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Solve Problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ashirbad003/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -322,6 +324,7 @@ Solve Problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashirbad003/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Trie
 |  |
 | ------- |
@@ -335,4 +338,8 @@ Solve Problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
