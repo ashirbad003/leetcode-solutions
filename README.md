@@ -252,6 +252,7 @@ Solve Problem
 | [0073-set-matrix-zeroes](https://github.com/ashirbad003/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashirbad003/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ashirbad003/leetcode-solutions/tree/master/0078-subsets) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -408,6 +409,7 @@ Solve Problem
 | ------- |
 | [0029-divide-two-integers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ashirbad003/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ashirbad003/leetcode-solutions/tree/master/0078-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -462,6 +464,7 @@ Solve Problem
 | [0051-n-queens](https://github.com/ashirbad003/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ashirbad003/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ashirbad003/leetcode-solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
