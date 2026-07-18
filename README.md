@@ -220,6 +220,7 @@ Solve Problem
 | [0047-permutations-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ashirbad003/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashirbad003/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ashirbad003/leetcode-solutions/tree/master/0051-n-queens) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -400,6 +401,7 @@ Solve Problem
 | [0040-combination-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashirbad003/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ashirbad003/leetcode-solutions/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
