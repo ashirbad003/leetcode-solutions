@@ -185,6 +185,7 @@ Solve Problem
 | [0016-3sum-closest](https://github.com/ashirbad003/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ashirbad003/leetcode-solutions/tree/master/0027-remove-element) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +292,7 @@ Solve Problem
 | [0018-4sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ashirbad003/leetcode-solutions/tree/master/0027-remove-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
