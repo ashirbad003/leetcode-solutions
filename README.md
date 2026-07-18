@@ -136,6 +136,7 @@ Solve Problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Solve Problem
 | [0005-longest-palindromic-substring](https://github.com/ashirbad003/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ashirbad003/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ashirbad003/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -226,6 +228,7 @@ Solve Problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashirbad003/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
