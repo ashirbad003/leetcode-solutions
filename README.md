@@ -205,6 +205,7 @@ Solve Problem
 | [0071-simplify-path](https://github.com/ashirbad003/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ashirbad003/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ashirbad003/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -253,6 +254,7 @@ Solve Problem
 | [0074-search-a-2d-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashirbad003/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ashirbad003/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -312,6 +314,7 @@ Solve Problem
 | [0064-minimum-path-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ashirbad003/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -357,6 +360,7 @@ Solve Problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
@@ -465,6 +469,7 @@ Solve Problem
 | [0052-n-queens-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ashirbad003/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ashirbad003/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
