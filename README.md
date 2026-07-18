@@ -223,6 +223,7 @@ Solve Problem
 | [0051-n-queens](https://github.com/ashirbad003/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0055-jump-game) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -303,6 +304,7 @@ Solve Problem
 | [0044-wildcard-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -355,6 +357,7 @@ Solve Problem
 | [0011-container-with-most-water](https://github.com/ashirbad003/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ashirbad003/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0055-jump-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
