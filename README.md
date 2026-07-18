@@ -172,6 +172,7 @@ Solve Problem
 | [0037-sudoku-solver](https://github.com/ashirbad003/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ashirbad003/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ashirbad003/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ashirbad003/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -245,6 +246,7 @@ Solve Problem
 | [0064-minimum-path-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ashirbad003/leetcode-solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ashirbad003/leetcode-solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ashirbad003/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -301,6 +303,7 @@ Solve Problem
 | [0059-spiral-matrix-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ashirbad003/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
