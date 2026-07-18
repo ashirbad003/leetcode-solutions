@@ -387,6 +387,7 @@ Solve Problem
 | [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
@@ -542,6 +543,7 @@ Solve Problem
 | [0095-unique-binary-search-trees-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ashirbad003/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -549,10 +551,12 @@ Solve Problem
 | [0095-unique-binary-search-trees-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ashirbad003/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ashirbad003/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
