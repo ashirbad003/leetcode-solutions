@@ -200,6 +200,7 @@ Solve Problem
 | [0065-valid-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ashirbad003/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ashirbad003/leetcode-solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/ashirbad003/leetcode-solutions/tree/master/0071-simplify-path) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -452,6 +453,7 @@ Solve Problem
 | [0020-valid-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashirbad003/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ashirbad003/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Merge Sort
 |  |
 | ------- |
