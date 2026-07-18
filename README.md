@@ -132,6 +132,7 @@ Solve Problem
 | [0012-integer-to-roman](https://github.com/ashirbad003/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ashirbad003/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -179,6 +180,7 @@ Solve Problem
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashirbad003/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ashirbad003/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ashirbad003/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -350,6 +352,7 @@ Solve Problem
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ashirbad003/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
