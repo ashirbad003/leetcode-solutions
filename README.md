@@ -222,6 +222,7 @@ Solve Problem
 | [0049-group-anagrams](https://github.com/ashirbad003/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ashirbad003/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -273,6 +274,7 @@ Solve Problem
 | [0036-valid-sudoku](https://github.com/ashirbad003/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ashirbad003/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ashirbad003/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -375,6 +377,7 @@ Solve Problem
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ashirbad003/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
