@@ -209,6 +209,7 @@ Solve Problem
 | [0072-edit-distance](https://github.com/ashirbad003/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ashirbad003/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ashirbad003/leetcode-solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/0087-scramble-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -359,6 +360,7 @@ Solve Problem
 | [0070-climbing-stairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ashirbad003/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/0087-scramble-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
