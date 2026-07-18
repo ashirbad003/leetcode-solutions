@@ -197,6 +197,7 @@ Solve Problem
 | [0058-length-of-last-word](https://github.com/ashirbad003/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ashirbad003/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ashirbad003/leetcode-solutions/tree/master/0068-text-justification) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -239,6 +240,7 @@ Solve Problem
 | [0063-unique-paths-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ashirbad003/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ashirbad003/leetcode-solutions/tree/master/0068-text-justification) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -407,6 +409,7 @@ Solve Problem
 | [0054-spiral-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ashirbad003/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ashirbad003/leetcode-solutions/tree/master/0068-text-justification) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
