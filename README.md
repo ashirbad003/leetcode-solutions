@@ -224,6 +224,7 @@ Solve Problem
 | [0053-maximum-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -326,6 +327,7 @@ Solve Problem
 | [0018-4sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ashirbad003/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
