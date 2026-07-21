@@ -217,6 +217,7 @@ Solve Problem
 | [0093-restore-ip-addresses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -459,6 +460,7 @@ Solve Problem
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ashirbad003/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
