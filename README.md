@@ -305,6 +305,7 @@ Solve Problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -394,6 +395,7 @@ Solve Problem
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
@@ -556,6 +558,7 @@ Solve Problem
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +568,7 @@ Solve Problem
 | [0098-validate-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
