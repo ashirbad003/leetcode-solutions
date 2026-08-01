@@ -132,6 +132,7 @@ Solve Problem
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashirbad003/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Solve Problem
 | [0127-word-ladder](https://github.com/ashirbad003/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ashirbad003/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ashirbad003/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
