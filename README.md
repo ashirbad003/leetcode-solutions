@@ -312,6 +312,7 @@ Solve Problem
 | [0130-surrounded-regions](https://github.com/ashirbad003/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ashirbad003/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ashirbad003/leetcode-solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -552,6 +553,7 @@ Solve Problem
 | [0078-subsets](https://github.com/ashirbad003/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ashirbad003/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
