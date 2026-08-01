@@ -194,6 +194,7 @@ Solve Problem
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ashirbad003/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -234,6 +235,7 @@ Solve Problem
 | [0115-distinct-subsequences](https://github.com/ashirbad003/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ashirbad003/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ashirbad003/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -353,6 +355,7 @@ Solve Problem
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashirbad003/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ashirbad003/leetcode-solutions/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
