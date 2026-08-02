@@ -138,6 +138,7 @@ Solve Problem
 | [0143-reorder-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -520,6 +521,7 @@ Solve Problem
 | [0075-sort-colors](https://github.com/ashirbad003/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -558,6 +560,7 @@ Solve Problem
 | [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -631,6 +634,7 @@ Solve Problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashirbad003/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
@@ -678,6 +682,7 @@ Solve Problem
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
