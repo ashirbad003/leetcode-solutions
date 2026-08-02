@@ -159,6 +159,7 @@ Solve Problem
 | [0070-climbing-stairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ashirbad003/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ashirbad003/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@ Solve Problem
 | [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -333,6 +335,7 @@ Solve Problem
 | [0137-single-number-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
@@ -788,4 +791,8 @@ Solve Problem
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
