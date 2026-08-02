@@ -201,6 +201,7 @@ Solve Problem
 | [0133-clone-graph](https://github.com/ashirbad003/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -243,6 +244,7 @@ Solve Problem
 | [0126-word-ladder-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ashirbad003/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -320,6 +322,7 @@ Solve Problem
 | [0136-single-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
@@ -460,6 +463,7 @@ Solve Problem
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -617,6 +621,7 @@ Solve Problem
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashirbad003/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -638,6 +643,7 @@ Solve Problem
 | [0095-unique-binary-search-trees-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -670,6 +676,7 @@ Solve Problem
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
