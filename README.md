@@ -133,6 +133,7 @@ Solve Problem
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashirbad003/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Solve Problem
 | [0138-copy-list-with-random-pointer](https://github.com/ashirbad003/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -543,6 +545,7 @@ Solve Problem
 | [0086-partition-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashirbad003/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
