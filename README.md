@@ -691,6 +691,7 @@ Solve Problem
 | [0144-binary-tree-preorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashirbad003/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ashirbad003/leetcode-solutions/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Merge Sort
 |  |
@@ -798,6 +799,7 @@ Solve Problem
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ashirbad003/leetcode-solutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
