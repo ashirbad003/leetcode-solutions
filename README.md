@@ -136,6 +136,7 @@ Solve Problem
 | [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Solve Problem
 | [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -771,4 +773,12 @@ Solve Problem
 | ------- |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
