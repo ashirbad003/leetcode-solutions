@@ -339,6 +339,7 @@ Solve Problem
 | [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
@@ -480,6 +481,7 @@ Solve Problem
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ashirbad003/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/ashirbad003/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashirbad003/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
