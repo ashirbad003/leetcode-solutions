@@ -814,4 +814,8 @@ Solve Problem
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/ashirbad003/leetcode-solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
