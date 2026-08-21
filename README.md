@@ -170,6 +170,7 @@ Solve Problem
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ashirbad003/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -371,6 +372,7 @@ Solve Problem
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashirbad003/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -397,6 +399,7 @@ Solve Problem
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ashirbad003/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -628,6 +631,7 @@ Solve Problem
 | [0090-subsets-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ashirbad003/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -643,6 +647,7 @@ Solve Problem
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashirbad003/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashirbad003/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -662,6 +667,7 @@ Solve Problem
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ashirbad003/leetcode-solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
