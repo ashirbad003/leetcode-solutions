@@ -224,6 +224,7 @@ Solve Problem
 | [0146-lru-cache](https://github.com/ashirbad003/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashirbad003/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -366,6 +367,7 @@ Solve Problem
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ashirbad003/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
@@ -581,6 +583,7 @@ Solve Problem
 | [0088-merge-sorted-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -698,6 +701,7 @@ Solve Problem
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/ashirbad003/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -903,4 +907,8 @@ Solve Problem
 | [1510-stone-game-iv](https://github.com/ashirbad003/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ashirbad003/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
