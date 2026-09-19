@@ -167,6 +167,7 @@ Solve Problem
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ashirbad003/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashirbad003/leetcode-solutions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashirbad003/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashirbad003/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ashirbad003/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -909,6 +910,7 @@ Solve Problem
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/ashirbad003/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashirbad003/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Database
 |  |
 | ------- |
