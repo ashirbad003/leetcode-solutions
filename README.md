@@ -235,6 +235,7 @@ Solve Problem
 | [0219-contains-duplicate-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ashirbad003/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashirbad003/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -289,6 +290,7 @@ Solve Problem
 | [0151-reverse-words-in-a-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ashirbad003/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -461,6 +463,7 @@ Solve Problem
 | [0127-word-ladder](https://github.com/ashirbad003/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ashirbad003/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ashirbad003/leetcode-solutions/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -612,6 +615,7 @@ Solve Problem
 | [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -777,6 +781,7 @@ Solve Problem
 | [0113-path-sum-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
@@ -794,6 +799,7 @@ Solve Problem
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashirbad003/leetcode-solutions/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Merge Sort
 |  |
 | ------- |
