@@ -402,6 +402,7 @@ Solve Problem
 | [1563-stone-game-v](https://github.com/ashirbad003/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ashirbad003/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -728,6 +729,7 @@ Solve Problem
 | [0067-add-binary](https://github.com/ashirbad003/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ashirbad003/leetcode-solutions/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashirbad003/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
