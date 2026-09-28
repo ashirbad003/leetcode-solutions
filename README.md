@@ -410,6 +410,7 @@ Solve Problem
 | [2029-stone-game-ix](https://github.com/ashirbad003/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ashirbad003/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashirbad003/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -448,6 +449,7 @@ Solve Problem
 | [0162-find-peak-element](https://github.com/ashirbad003/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashirbad003/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashirbad003/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -493,6 +495,7 @@ Solve Problem
 | [0023-merge-k-sorted-lists](https://github.com/ashirbad003/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ashirbad003/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -811,6 +814,7 @@ Solve Problem
 | [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -828,6 +832,7 @@ Solve Problem
 | [0084-largest-rectangle-in-histogram](https://github.com/ashirbad003/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashirbad003/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Memoization
 |  |
 | ------- |
@@ -906,6 +911,7 @@ Solve Problem
 ## Segment Tree
 |  |
 | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -990,4 +996,8 @@ Solve Problem
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/ashirbad003/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
