@@ -968,4 +968,8 @@ Solve Problem
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashirbad003/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
