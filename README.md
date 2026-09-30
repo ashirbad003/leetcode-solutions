@@ -950,6 +950,7 @@ Solve Problem
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ashirbad003/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/ashirbad003/leetcode-solutions/tree/master/0178-rank-scores) |
 ## Minimax
 |  |
