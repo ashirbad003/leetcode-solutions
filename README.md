@@ -236,6 +236,7 @@ Solve Problem
 | [0219-contains-duplicate-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ashirbad003/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0433-minimum-genetic-mutation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ashirbad003/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -294,6 +295,7 @@ Solve Problem
 | [0151-reverse-words-in-a-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ashirbad003/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0433-minimum-genetic-mutation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -490,6 +492,7 @@ Solve Problem
 | [0130-surrounded-regions](https://github.com/ashirbad003/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ashirbad003/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/ashirbad003/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0433-minimum-genetic-mutation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashirbad003/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashirbad003/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -1049,4 +1052,8 @@ Solve Problem
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
