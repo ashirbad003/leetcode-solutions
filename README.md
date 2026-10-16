@@ -243,6 +243,7 @@ Solve Problem
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashirbad003/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashirbad003/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashirbad003/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashirbad003/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -426,6 +427,7 @@ Solve Problem
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashirbad003/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ashirbad003/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ashirbad003/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashirbad003/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -952,6 +954,7 @@ Solve Problem
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
@@ -1051,6 +1054,7 @@ Solve Problem
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashirbad003/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ashirbad003/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Bidirectional Search
 |  |
