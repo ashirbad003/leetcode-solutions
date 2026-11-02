@@ -163,6 +163,7 @@ Solve Problem
 | [0149-max-points-on-a-line](https://github.com/ashirbad003/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashirbad003/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ashirbad003/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ashirbad003/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -409,6 +410,7 @@ Solve Problem
 | [0162-find-peak-element](https://github.com/ashirbad003/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ashirbad003/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/ashirbad003/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -678,6 +680,7 @@ Solve Problem
 | [0147-insertion-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ashirbad003/leetcode-solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashirbad003/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/ashirbad003/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/ashirbad003/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
